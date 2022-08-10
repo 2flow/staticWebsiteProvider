@@ -1,7 +1,7 @@
 package main
 
 import (
-	"StaticStorageProvider/internal/httputils"
+	"github.com/2flow/gokies/httputils"
 	filestorage "github.com/2flow/gokies/storageabstraction/azureblobs"
 	"github.com/go-kit/log"
 	"os"
